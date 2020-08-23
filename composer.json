@@ -1,0 +1,17 @@
+{
+  "name": "vrkansagara/laminas-jsvalidation",
+  "description": "Laminas Code Generator",
+  "type": "library",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "laminas",
+    "validation",
+    "javascript",
+    "laminas-form"
+  ],
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "require": {
+    "php": "^7.3"
+  }
+}
